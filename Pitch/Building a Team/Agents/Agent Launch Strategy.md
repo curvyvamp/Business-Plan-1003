@@ -189,51 +189,27 @@ To remain in the trial, agents must:
 
 ### Tier Definitions
 
-| Tier | Name | Cumulative Qualifying Bookings | Split (Agent/TT) | Badge/Visual |
-|------|------|-------------------------------|-------------------|-------------|
-| 1 | **Starter** | 0 - 24 | 75 / 25 | Bronze |
-| 2 | **Rising** | 25 - 74 | 80 / 20 | Silver |
-| 3 | **Expert** | 75 - 149 | 85 / 15 | Gold |
-| 4 | **Master** | 150 - 299 | 90 / 10 | Platinum |
-| 5 | **Elite** | 300+ | 95 / 5 | Diamond |
+| Tier | Annual Comission and planning fee agent earnings Value | Commission Split (Agent/TT) |
+|------|---------------------|-----------------------------|
+| **Starter** | $0-$40,000 | 75 / 25 |
+| **Rising** | $40,000-$60,000 | 80 / 20 |
+| **Expert** | $60,000-$100,000 | 85 / 15 |
+| **Elite** | $100,000 | 90 / 10 |
 
 ### What Counts as a "Qualifying Booking"
 A booking qualifies for tier progression when ALL of the following are met:
-1. Client has paid the full booking price
+1. Client has paid the planning fee and/or comission on bookings and Trip Tailors recieves their cut.
 2. Booking was made through Trip Tailors' platform (RateHawk integration or approved external platform)
-3. Booking was not cancelled or fully refunded within 30 days
-4. Minimum booking value: $200 (client price)
+3. Booking was not cancelled or fully refunded and is completed (the client completes the vacation).
+4. Minimum booking comission and planning fee earned: $200 (client price)
 
 **Partial refunds:** If a booking is partially refunded but the remaining value is >$200, it still counts.
-**Cancellations after 30 days:** Still counts as qualifying (agent already earned the booking).
 
-### Tier Progression Timeline (Typical Agent)
-| Agent Activity Level | Time to Rising (25 bookings) | Time to Expert (75 bookings) | Time to Elite (150 bookings) |
-|---------------------|------------------------------|------------------------------|------------------------------|
-| 3 bookings/month | 8 months | 25 months | 50 months |
-| 5 bookings/month | 5 months | 15 months | 30 months |
-| 8 bookings/month | 3 months | 9 months | 19 months |
-
-### Revenue Impact Analysis
-
-| Scenario: 100 agents at various tiers | Agents | TT Revenue (Monthly) |
-|---------------------------------------|--------|---------------------|
-| 60 Starter (75/25) x 4 bookings x $400 | 60 | $24,000 |
-| 25 Rising (80/20) x 5 bookings x $400 | 25 | $10,000 |
-| 10 Expert (85/15) x 7 bookings x $400 | 10 | $4,200 |
-| 3 Master (90/10) x 9 bookings x $400 | 3 | $1,080 |
-| 2 Elite (95/5) x 10 bookings x $400 | 2 | $400 |
-| **Total commission revenue** | **100** | **$30,500/month** |
-| + Subscriptions (100 × $45) | | $4,500/month |
-| + Lead marketplace (est.) | | $3,000/month |
-| **Total MRR** | | **$38,000/month** |
-
-**Key insight:** Even as agents progress to better splits, the total revenue grows because higher-tier agents book more volume. The 5 Elite agents in this example book 50 bookings/month (vs. 20 bookings/month from 5 Starter agents).
 
 ### Tier Display in Agent Dashboard
 Each agent should see:
 - Current tier (badge + name)
-- Current qualifying bookings count
+- Current qualifying bookings count & value
 - Bookings needed for next tier
 - Progress bar (visual)
 - Current commission split
@@ -247,19 +223,21 @@ Example: "You're a **Rising Agent** with **47 qualifying bookings**. **28 more b
 
 ### Lead Pricing Tiers
 
-| Lead Type | Price | Information Shown Before Purchase | Full Info After Purchase |
-|-----------|-------|-----------------------------------|------------------------|
-| **Standard** ($5) | $5 | Destination, budget range, travel dates, # travelers | + Name, email, phone, specific requirements |
-| **Qualified** ($10) | $10 | Above + departure location, trip type (honeymoon, family, etc.) | + Name, email, phone, detailed preferences |
-| **Premium** ($20) | $20 | Above + estimated budget breakdown, urgency indicator | + All contact details, notes, previous travel history (if available) |
+### Lead Marketplace
+Leads generated from the Referral Hub and Public Website are sold to agents:
+| Lead Strength | Price | Description |
+|---------------|-------|-------------|
+| Standard | $5 | Basic inquiry, minimal detail, low budget |
+| Qualified | $10 | Modest budget, details filled out correctly |
+| Premium | $20 | High budget, specific requirements, detailed request |
 
 ### Lead Marketplace Rules
 1. **First-come, first-served:** Leads are visible to all agents; first to purchase gets exclusive access
 2. **No refunds on leads:** Once purchased, the lead is yours (prevents gaming)
-3. **Lead freshness:** Leads expire after 7 days if not purchased; removed from marketplace
+3. **Lead freshness:** Leads expire after 3 days if not purchased; given to a selected agent for free
 4. **Exclusive access:** Each lead is sold to ONE agent only (builds trust in the marketplace)
-5. **Feedback required:** After 30 days, agent must update lead status (contacted, quoted, booked, lost)
-6. **Quality guarantee:** If a lead's contact information is invalid (wrong email/phone), Trip Tailors issues a credit
+5. **Feedback required:** Agent must update lead status (contacted, quoted, booked, lost), if not tracked after 30 days automated email sent asking the reason and prompting them to update.
+6. **Quality guarantee:** If a lead's contact information is invalid (wrong email/phone), Trip Tailors issues a credit, agent must provide supporting evidence.
 
 ### Lead Sources
 | Source | Expected Volume | Quality |
@@ -276,7 +254,6 @@ Example: "You're a **Rising Agent** with **47 qualifying bookings**. **28 more b
 | Cost to acquire lead (organic) | $0-$2 per lead |
 | Average lead sell price | $10 |
 | Leads sold per booking | ~5-7 (15-20% conversion) |
-| Revenue per booking from leads | $50-$70 |
 | Net margin on referral leads | Break-even to slightly positive |
 | Net margin on organic leads | $8-$10 per lead (high margin) |
 
