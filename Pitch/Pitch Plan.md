@@ -255,3 +255,63 @@ Visual: Show the fragmented landscape — agents juggling 5+ separate tools, pay
 
 **Contact:** [email] | [phone] | [website]
 
+### Common Investor Questions — Prepare Answers
+
+1. **"Why should we bet on a solo founder?"**
+   → "I built both the product and the market validation alone. Solo founders represent 36% of startups in 2025 and retain full decision-making speed. My first hire is planned for Month 3 to handle agent support."
+
+2. **"You just graduated — what's your travel industry experience?"**
+   → "I built this by doing it. $20,500 in actual travel sales, not theoretical. I tested every tool on real clients and refined the workflow through actual bookings."
+
+3. **"How do you compete with established host agencies?"**
+   → "We don't compete — we serve a different segment. Traditional hosts require agents to use shared credentials and give up independence. We let agents keep everything. It's Shopify vs. Amazon."
+
+4. **"What if agents leave after getting established?"**
+   → "Three retention moats: (1) Commission tiers reward loyalty (up to 95/5), (2) lead marketplace creates ongoing value, (3) CRM data and client relationships are built within our platform."
+
+5. **"50 million TikTok views sounds impressive, but what's the conversion?"**
+   → "We're at the beginning of optimizing conversion. Even at 0.001% CTR, that's 500 leads/week. At $10/lead and 15% booking rate, that's significant recurring revenue."
+
+6. **"What's your moat?"**
+   → "Three things competitors don't have: (1) An integrated influencer lead engine with 50M+ weekly views, (2) AI-powered tools built specifically for independent agents, (3) A global IC model that works from Day 1."
+
+---
+
+## 7. PITCH CALENDAR — SUGGESTED TIMELINE
+
+| Week | Activity | Target |
+|------|----------|--------|
+| 1-2 | Finalize pitch deck, update financial model | Complete materials |
+| 3-4 | Apply to Intelak Hub, Plug and Play | Accelerator applications |
+| 4-5 | Submit to Dubai Angel Investors | Network application |
+| 5-6 | Record product demo video | Due diligence material |
+| 6-8 | Attend 2-3 Dubai startup events | Network building |
+| 7-9 | LinkedIn outreach to 20-30 individual angels | Meeting requests |
+| 8-12 | Pitch meetings (target 15-20) | Investment conversations |
+| 10-14 | Follow-up conversations, term negotiation | Commitment gathering |
+| 12-16 | Legal documentation, fund transfer | Close round |
+
+**Total: 3-4 months from start to close**
+
+---
+
+## 8. PITCH DELIVERY TIPS — DUBAI SPECIFIC
+
+### Cultural Considerations
+1. **Relationship first** — Dubai investors value personal connection. Coffee meetings before formal pitches.
+2. **Respect and formality** — Use titles (Sheikh, Mr./Ms.) until invited otherwise
+3. **Patience** — Decision-making may take longer; follow up respectfully
+4. **Demonstrate commitment to Dubai** — Your relocation shows skin in the game; emphasize this
+5. **Vision scale** — GCC investors appreciate ambitious but achievable visions; don't undersell
+
+### Practical Tips
+1. **Dress professionally** — Business formal for first meetings in Dubai
+2. **Arabic greeting** — "As-salamu alaykum" as a greeting shows cultural respect
+3. **Business cards** — Still used in Dubai; bring high-quality cards
+4. **WhatsApp** — Primary business communication in UAE; be responsive
+5. **Meeting times** — Sunday-Thursday are business days; avoid Friday prayer times
+6. **Ramadan awareness** — If pitching during Ramadan, schedule meetings after Iftar
+
+---
+
+*This strategy is a starting framework. Adjust based on accelerator timelines, investor availability, and market conditions.*
